@@ -4,10 +4,10 @@
 **Interfaz / Modalidad:** Gráfica — Contra la PC  
 
 ## Integrantes y aportes
-- Bruno Maximiliano Lillo
-- Juan Cruz Alvarado
-- Benjamin Ribal
-- Leonardo Carlos Acosta
+- Bruno Maximiliano Lillo (GitHub no informado)
+- Juan Cruz Alvarado (GitHub no informado)
+- Benjamin Ribal (GitHub no informado)
+- Leonardo Carlos Acosta (GitHub no informado)
 
 ## Reglas y alcance
 La propuesta aprobada consiste en desarrollar Blackjack contra la PC utilizando una interfaz gráfica.

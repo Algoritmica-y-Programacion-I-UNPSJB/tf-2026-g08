@@ -4,7 +4,7 @@
 **Interfaz / Modalidad:** Gráfica — Contra la PC  
 
 ## Integrantes y aportes
-- Bruno Maximiliano Lillo (GitHub no informado)
+- Bruno Maximiliano Lillo (@Maxim-26)
 - Juan Cruz Alvarado (GitHub no informado)
 - Benjamin Ribal (GitHub no informado)
 - Leonardo Carlos Acosta (GitHub no informado)
